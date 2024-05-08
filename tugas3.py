@@ -1,0 +1,1 @@
+# Tugas 06: Studi Kasus Konversi (soal latihan 6.3 di halaman 59.)
